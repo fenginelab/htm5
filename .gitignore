@@ -128,3 +128,9 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+# Gitignore config for current project
+server/build/
+server/yarn.lock
+client/build/
+client/yarn.lock
