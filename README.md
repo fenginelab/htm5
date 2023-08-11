@@ -1,6 +1,8 @@
-# htm5
+# HTM5
 
 Hanh Trinh Magellan 5 Application
+
+(Run on the cloud, users use web interface to view and control application data)
 
 ### Usage
 
