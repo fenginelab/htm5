@@ -50,5 +50,5 @@ yarn build
         </a>
     </li>
     <li>Nguyễn Thanh Hùng Cường</li>
-    <li>Võ Chí Cường</li>
+    <li><a href="">Võ Chí Cường</a></li>
 </ul>
