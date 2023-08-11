@@ -30,7 +30,9 @@ yarn build
 
 #### Software Architect
 
-Đoàn Nguyễn Thành Lương
+<a href='https://github.com/thanhluong'>
+    Đoàn Nguyễn Thành Lương
+</a>
 
 #### Frontend developer:
 
