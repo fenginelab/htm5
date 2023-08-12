@@ -54,5 +54,9 @@ yarn build
         </a>
     </li>
     <li>Nguyễn Thanh Hùng Cường</li>
-    <li><a href="https://github.com/Ranizt">Võ Chí Cường</a></li>
+    <li>
+        <a target="_blank" href="https://github.com/Ranizt">
+            Võ Chí Cường
+        </a>
+    </li>
 </ul>
