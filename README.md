@@ -2,7 +2,11 @@
 
 Hanh Trinh Magellan 5 Application
 
-(Run on the cloud, users use web interface to view and control application data)
+**Type**: Web-based application
+
+**Backend**: Colyseus + MongoDB
+
+**Frontend**: React + Redux + Material UI
 
 ### Usage
 
@@ -50,5 +54,9 @@ yarn build
         </a>
     </li>
     <li>Nguyễn Thanh Hùng Cường</li>
-    <li><a href="">Võ Chí Cường</a></li>
+    <li>
+        <a target="_blank" href="https://github.com/Ranizt">
+            Võ Chí Cường
+        </a>
+    </li>
 </ul>
